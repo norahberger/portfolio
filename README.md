@@ -4,7 +4,7 @@
 <h2>👩‍💻 Projects:</h2>
 
 - <b>Security audits</b>
-  - [Internal Security Audit for Botium Toys]( )
+  - [Internal Security Audit for Botium Toys](https://github.com/norahberger/security-audits/tree/3b766e7de4adfee1845aeaf4496ba382cecb6f52/securityaudit1)
 
 <h2>📄 Certifications</h2>
 
