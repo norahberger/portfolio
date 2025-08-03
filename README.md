@@ -8,4 +8,4 @@
 
 <h2>📄 Certifications</h2>
 
-- [Google Cybersecurity Professional Certificate]( )
+- [Google Cybersecurity Professional Certificate](https://coursera.org/share/6f1482b6a2bad38cb102a49f65021d35)
