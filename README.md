@@ -9,7 +9,7 @@
 - <b>[Python](https://github.com/norahberger/python.git)</b>
 
 
-<h2>Labs</h2>
+<h2>🔍 Labs</h2>
 
 <h2>📄 Certifications</h2>
 
