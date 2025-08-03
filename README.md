@@ -6,7 +6,7 @@
 - <b>[Security Audits](https://github.com/norahberger/security-audits.git)</b>
 - <b>[Incident Reports](https://github.com/norahberger/Incident-reports.git)</b>
 - <b>[Linux & SQL Commands](https://github.com/norahberger/Linux-SQL.git)</b>
-- <b>[Python]( )</b>
+- <b>[Python](https://github.com/norahberger/python.git)</b>
 
 
 <h2>Labs</h2>
