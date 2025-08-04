@@ -3,11 +3,11 @@
 
 <h2>👩‍💻 Projects:</h2>
 
-- <b>[Security Audits](https://github.com/norahberger/security-audits.git)</b>
-- <b>[Incident Reports](https://github.com/norahberger/Incident-reports.git)</b>
-- <b>[Linux & SQL Commands](https://github.com/norahberger/Linux-SQL.git)</b>
-- <b>[Assessments](https://github.com/norahberger/assessments.git)</b>
-- <b>[Python](https://github.com/norahberger/python.git)</b>
+- <b>[Security Audits](https://github.com/norahberger/portfolio/tree/8815d9aef88f74f8fcffad045758b05967f93c33/Security%20Audits)</b>
+- <b>[Incident Reports](https://github.com/norahberger/portfolio/tree/8815d9aef88f74f8fcffad045758b05967f93c33/Incident%20Reports)</b>
+- <b>[Linux & SQL Commands](https://github.com/norahberger/portfolio/tree/8815d9aef88f74f8fcffad045758b05967f93c33/Linux%20%26%20SQL)</b>
+- <b>[Assessments](https://github.com/norahberger/portfolio/tree/8815d9aef88f74f8fcffad045758b05967f93c33/Assessments)</b>
+- <b>[Python](https://github.com/norahberger/portfolio/tree/8815d9aef88f74f8fcffad045758b05967f93c33/Python)</b>
 
 
 <h2>🔍 Labs</h2>
